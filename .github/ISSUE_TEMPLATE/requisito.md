@@ -1,8 +1,8 @@
 ---
-Nome: Requisito
-Sobre: Template para registrar requisitos funcionais e não funcionais da pizzaria
-Título: "[RF/RNF] - Título do requisito"
-Rótulo: []
+name: Requisito
+about: Template para registrar requisitos funcionais e não funcionais da pizzaria
+title: "[RF/RNF] - Título do requisito"
+labels: []
 assignees: []
 ---
 
