@@ -16,3 +16,12 @@ Todos os requisitos foram registrados como **Issues** neste repositório, cada u
 
 Essas *Issues* estão vinculadas ao **GitHub Project**, permitindo visualização em formato de **Kanban** e acompanhamento do progresso.
 
+## Requisitos
+
+- [RF] Gestão de Ingredientes e Disponibilidade de Pizzas — Regra de negócio: retirar do cardápio quando houver ingredientes para menos de 5 pizzas comuns e menos de 2 pizzas gourmet.
+- [RNF] Atualização em tempo real do cardápio — refletem mudanças de estoque com baixa latência.
+
+### Rastreamento
+- As histórias e critérios de aceite estão registrados como Issues no GitHub Projects.
+- Este repositório mantém templates e documentação dos requisitos.
+
